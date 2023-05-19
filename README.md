@@ -1,0 +1,2 @@
+# Bloques
+Actividad Core
